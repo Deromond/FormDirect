@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\bin\Release\Homowork_4.exe.config
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\bin\Release\Homowork_4.exe
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\bin\Release\Homowork_4.pdb
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.Form1.resources
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.Properties.Resources.resources
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.exe
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.pdb
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\Homowork_4\Homowork_4\obj\Release\Homowork_4.Question.resources
